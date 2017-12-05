@@ -1,0 +1,94 @@
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe.config
+I:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe.config
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe.config
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.pdb
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Form1.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.exe
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Form1.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.MainForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.EmployeeWorkHoursForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.EmployeesOfTheDayForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.MainForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe.config
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.exe
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.pdb
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.exe
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\bin\Debug\ETS.pdb
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.EmployeeWorkHoursForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.EmployeesOfTheDayForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Form1.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.MainForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+F:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.SearchEmpWorkForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.SearchWorkedEmpsByDateForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.SearchWorkedHoursByEmpForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project\ETS\ETS\obj\Debug\ETS.UpdateWorkForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\bin\Debug\ETS.exe.config
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\bin\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\bin\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.SearchWorkedEmpsByDateForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.Form1.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.MainForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.SearchWorkedHoursByEmpForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.UpdateWorkForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Editing\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.exe.config
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.pdb
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.exe.config
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.exe
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.pdb
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.exe
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.pdb
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.SearchWorkedEmpsByDateForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.MainForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.SearchWorkedHoursByEmpForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.UpdateWorkForm.resources
+E:\Petersham crystal\cer IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.exe
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\bin\Debug\ETS.pdb
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.csprojResolveAssemblyReference.cache
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.AddEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.AddWorkingHoursForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.SearchWorkedEmpsByDateForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.MainForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.SearchWorkedHoursByEmpForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.UpdateEmployeeForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.UpdateWorkForm.resources
+C:\Users\HANGE\Documents\AU Study\TAFE\Petersham crystal\certificate IV\Programming2\PROJECT\YuChin Chuang project - Submit\ETS\ETS\obj\Debug\ETS.csproj.GenerateResource.Cache
